@@ -54,6 +54,7 @@ Track ongoing projects.
 * Python
 * Django
 * Heroku
+* PostgreSQL
 
 ### Frontend:
 
