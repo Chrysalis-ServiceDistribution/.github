@@ -76,27 +76,9 @@ Track ongoing projects.
 * https://chrysalis-service-distribution.netlify.app/
 
 
-
 ## WireFrames
 
-Login and Sign-up Page 
-
-![alt text](./images/Screenshot%202024-05-22%20at%201.25.11 PM.png)
-
-Welcome Page 
-
-![alt text](./images/Screenshot%202024-05-22%20at%203.06.51 PM.png)
-
-Create a Service 
-
-![alt text](./images/Screenshot%202024-05-22%20at%203.14.40 PM.png)
-
-
-Task Status 
-
-![alt text](./images/Screenshot%202024-05-22%20at%204.05.13 PM.png)
-
-
+* https://whimsical.com/chrysalis-JQHu5UMVZnTe6LBFLJZR4m
 
 
 ### Component Hierarchy Diagram 
