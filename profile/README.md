@@ -1,6 +1,6 @@
 # Chrysalis
 
-![alt text](./images/image.png)
+![image](https://github.com/Chrysalis-ServiceDistribution/.github/assets/60750816/6e730155-1379-4aa8-bc27-6b13ad86ef84)
 
 
 # Description:
